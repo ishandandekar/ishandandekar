@@ -1,6 +1,8 @@
 ![](https://github.com/ishandandekar/ishandandekar/blob/main/banner.png)
 
 ### Hello and welcome 👋
+### About me:-
+![](https://media.giphy.com/media/lW9XPLjNXyDDO/giphy.gif)
 <!--
 **ishandandekar/ishandandekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
