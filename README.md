@@ -4,7 +4,8 @@
 ### About me:-
 ![](https://media.giphy.com/media/lW9XPLjNXyDDO/giphy.gif)<br>
 <img src="https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=dark"/><br>
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishan-dandekar-2a4a17209/)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishan-dandekar-2a4a17209/)<br>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <!--
 **ishandandekar/ishandandekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
