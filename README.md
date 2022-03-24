@@ -1,3 +1,4 @@
+[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
 ![](https://github.com/ishandandekar/ishandandekar/blob/main/banner.png)
 
 ### Hello and welcome 👋
