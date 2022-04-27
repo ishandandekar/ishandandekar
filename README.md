@@ -6,6 +6,7 @@
 ![](https://media.giphy.com/media/lW9XPLjNXyDDO/giphy.gif)<br>
 <img src="https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=dark"/><br>
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ishan-dandekar-2a4a17209/)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishandandekar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ### Skillset
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 <!--
