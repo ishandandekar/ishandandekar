@@ -1,4 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/ishandandekar/ishandandekar)](https://badges.pufler.dev)
 ![](https://github.com/ishandandekar/ishandandekar/blob/main/banner.png)
 
 ### Hello and welcome 👋
