@@ -6,5 +6,7 @@
 - 🔨 Projects I am fond of:
   * [Accidents analysis in USA](https://github.com/ishandandekar/USA-accidents-analysis)
   * [What_Am_I_Eating](https://github.com/ishandandekar/What_Am_I_Eating)
+  
+:bulb: Did you know jiffy is an actual measurement of time?
 
 <img src="https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=tokyonight" alt="ishandandekar" />
