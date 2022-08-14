@@ -9,4 +9,4 @@
   
 > :bulb: Did you know jiffy is an actual measurement of time? It's true.
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=tokyonight" alt="ishandandekar" />
+<img src="https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=graywhite" alt="ishandandekar" />
