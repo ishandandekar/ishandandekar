@@ -4,8 +4,9 @@
 - 🔎 Looking to collaborate on web scraping, data analysis/visualization and data science projects
 - 📝Reach me: [Email](mailto:ishandandekar2002@gmail.com) [Medium](https://medium.com/@ishandandekar) [LinkedIn](https://www.linkedin.com/in/ishan-dandekar/) [Kaggle](https://www.kaggle.com/ishandandekar) [Instagram](https://www.instagram.com/ishandandek/)
 - 🔨 Projects I am fond of:
-  * [USA_Accidents_analysis](https://github.com/ishandandekar/USA-accidents-analysis)
-  * [What_Am_I_Eating](https://github.com/ishandandekar/What_Am_I_Eating)
+  * [USA_Accidents_analysis](https://github.com/ishandandekar/USA-accidents-analysis) 🚗📈
+  * [What_Am_I_Eating](https://github.com/ishandandekar/What_Am_I_Eating) 🍕👀
+  * [This_Is_A_Disaster](https://github.com/ishandandekar/This_Is_A_Disaster) 🌀❓
   
 > :bulb: Did you know jiffy is an actual measurement of time? It's true.
 
