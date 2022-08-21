@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishandandekar&label=Profile%20views&color=0e75b6&style=flat" alt="devanshu125" /> </p>
-
 - :wave: Hi, I am Ishan Dandekar
 - :eyes: I love brains, made by humans.
 - 🍒 I'm currently learning neural networks.
