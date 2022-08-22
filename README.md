@@ -1,7 +1,7 @@
 - :wave: Hi, I am Ishan Dandekar
 - :eyes: I love brains, made by humans.
 - 🍒 I'm currently learning neural networks.
-- 🔎 Looking to collaborate on web scraping, data analysis/visualization and data science projects
+- 🔎 Actively looking to collaborate on web scraping, data analysis/visualization and data science projects.
 - 📝Reach me: [Email](mailto:ishandandekar2002@gmail.com) [Medium](https://medium.com/@ishandandekar) [LinkedIn](https://www.linkedin.com/in/ishan-dandekar/) [Kaggle](https://www.kaggle.com/ishandandekar) [Instagram](https://www.instagram.com/ishandandek/)
 - 🔨 Projects I am fond of:
   * [Treasure Hunter](https://github.com/ishandandekar/Treasure-Hunter) 💰🕵️
