@@ -8,7 +8,7 @@
   * [USA_Accidents_analysis](https://github.com/ishandandekar/USA-accidents-analysis) 🚗📈
   * [What_Am_I_Eating](https://github.com/ishandandekar/What_Am_I_Eating) 🍕👀
   * [This_Is_A_Disaster](https://github.com/ishandandekar/This_Is_A_Disaster) 🌀❓
-  * [Looking_Fruit](https://github.com/ishandandekar/Looking-Fruit) 😕🍎
+  * [Looking_Fruit](https://github.com/ishandandekar/Looking-Fruit) 🤔🍎
   
 > :bulb: Did you know jiffy is an actual measurement of time? It's true.
 
