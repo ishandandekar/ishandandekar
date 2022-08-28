@@ -1,5 +1,5 @@
-- :wave: Hi, I am Ishan Dandekar
-- :eyes: I love brains, made by humans.
+- :wave: Hi, I am Ishan Dandekar.
+- :eyes: I love making brains.
 - 🍒 I'm currently learning neural networks.
 - 🔎 Actively looking to collaborate on web scraping, data analysis/visualization and data science projects.
 - 📝Reach me: [Email](mailto:ishandandekar2002@gmail.com) [Medium](https://medium.com/@ishandandekar) [LinkedIn](https://www.linkedin.com/in/ishan-dandekar/) [Kaggle](https://www.kaggle.com/ishandandekar) [Instagram](https://www.instagram.com/ishandandek/)
