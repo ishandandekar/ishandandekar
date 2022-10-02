@@ -14,3 +14,8 @@
 > :bulb: Did you know jiffy is an actual measurement of time? It's true.
 
 <img src="https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=vue" alt="ishandandekar" />
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishandandekar/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishandandekar/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishandandekar/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ishandandekar/discussion/light)
