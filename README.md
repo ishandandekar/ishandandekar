@@ -14,4 +14,3 @@
 > :bulb: Did you know jiffy is an actual measurement of time? It's true.
 
 <img src="https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=vue" alt="ishandandekar" />
-<img src="https://activity-graph.herokuapp.com/graph?username=ishandandekar&hide_border=true&theme=vue" alt="activity graph" />
