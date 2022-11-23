@@ -1,6 +1,6 @@
 ## Hi There 🙋‍♂️
 
-I'm Ishan Dandekar, a self-taught junior data scientist hailing from Mumbai, India IN.
+I'm Ishan Dandekar, a self-taught junior data scientist hailing from Vapi, India IN.
 
 ### ✨ About Me in 10 secs ✨
 - Love badminton
