@@ -18,7 +18,7 @@ I'm Ishan Dandekar, a self-taught junior data scientist hailing from Vapi, India
 ### ⚡ Currently ⚡
 - Brushing up on data structures and algorithms
 - Learning Neural Networks and Deep learning
-- Course: [Deep Learning Specialization](https://www.coursera.org/learn/convolutional-neural-networks)
+- Course: [Serverless ML](https://github.com/featurestoreorg/serverless-ml-course)
 
 ### 🙌🏻 Connect with Me 🙌🏻
 - [Email](mailto:ishandandekar2002@gmail.com)
@@ -27,4 +27,4 @@ I'm Ishan Dandekar, a self-taught junior data scientist hailing from Vapi, India
 - [Medium](https://medium.com/@ishandandekar)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=vue" alt="ishandandekar" />
+<img src="https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=vue" alt="ishandandekar_gh_stats" />
