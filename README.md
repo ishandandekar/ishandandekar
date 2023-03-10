@@ -17,7 +17,7 @@ I'm Ishan Dandekar, a self-taught junior data scientist hailing from Vapi, India
 
 ### ⚡ Currently ⚡
 - Brushing up on data structures and algorithms
-- Learning MLOps pratices using various tools
+- Learning MLOps practices using various tools
 
 ### 🙌🏻 Connect with Me 🙌🏻
 - [Email](mailto:ishandandekar2002@gmail.com)
