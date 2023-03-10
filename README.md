@@ -17,8 +17,7 @@ I'm Ishan Dandekar, a self-taught junior data scientist hailing from Vapi, India
 
 ### ⚡ Currently ⚡
 - Brushing up on data structures and algorithms
-- [Working on a ML project to predit sales prices of bulldozers](https://github.com/ishandandekar/Bulldozer-price-prediction) (open for collaboration)
-- Course: [Serverless ML](https://github.com/featurestoreorg/serverless-ml-course)
+- Learning MLOps pratices using various tools
 
 ### 🙌🏻 Connect with Me 🙌🏻
 - [Email](mailto:ishandandekar2002@gmail.com)
