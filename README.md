@@ -14,6 +14,7 @@ I'm Ishan Dandekar, a self-taught junior data scientist hailing from Vapi, India
 - [This_Is_A_Disaster](https://github.com/ishandandekar/This_Is_A_Disaster) 🌀❓
 - [Looking_Fruit](https://github.com/ishandandekar/Looking-Fruit) 🤔🍎
 - [BiFrost](https://github.com/ishandandekar/Bifrost) 🚆⚡
+- [Cell dent detection](https://github.com/ishandandekar/battery_cell_dent_detection) 🪫🗲
 
 ### ⚡ Currently ⚡
 - Brushing up on data structures and algorithms
