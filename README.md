@@ -27,5 +27,6 @@ I'm Ishan Dandekar, a self-taught junior data scientist hailing from Vapi, India
 - [Medium](https://medium.com/@ishandandekar)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=dark" alt="ishandandekar_gh_stats" />
-![LeetCode Stats](https://leetcard.jacoblin.cool/ishandandekar2002?theme=dark&font=Mako&ext=activity)
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=dark" alt="ishandandekar_gh_stats" /> -->
+![ishandandekar_gh_stats](https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=dark)
+![ishandandekar_lc_stats](https://leetcard.jacoblin.cool/ishandandekar2002?theme=dark&font=Mako&ext=activity)
