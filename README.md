@@ -17,7 +17,7 @@ I'm Ishan Dandekar, a self-taught junior data scientist hailing from Vapi, India
 - [Cell dent detection](https://github.com/ishandandekar/battery_cell_dent_detection) 🪫🗲 -->
 
 ### ⚡ Currently ⚡
-- Brushing up on data structures and algorithms
+- Brushing up on NLP preprocessing and learning techniques
 - Learning MLOps practices using various tools
 
 ### 🙌🏻 Connect with Me 🙌🏻
