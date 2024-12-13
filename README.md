@@ -18,8 +18,7 @@ I'm Ishan Dandekar, a self-taught junior data scientist hailing from Vapi, India
 
 ### ⚡ Currently ⚡
 - Exporing new software design patterns
-- Learning MLOps practices using various tools
-- Working on [Churnobyl](https://github.com/ishandandekar/Churnobyl)
+- Learning a bunch of stuff
 
 ### 🙌🏻 Connect with Me 🙌🏻
 - [Email](mailto:ishandandekar2002@gmail.com)
