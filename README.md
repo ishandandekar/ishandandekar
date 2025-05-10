@@ -1,4 +1,4 @@
-## Hi There 🙋‍♂️
+<!--## Hi There 🙋‍♂️
 
 I'm Ishan Dandekar, a self-taught junior data scientist hailing from Vapi, India IN.
 
@@ -16,7 +16,7 @@ I'm Ishan Dandekar, a self-taught junior data scientist hailing from Vapi, India
 - [BiFrost](https://github.com/ishandandekar/Bifrost) 🚆⚡
 - [Cell dent detection](https://github.com/ishandandekar/battery_cell_dent_detection) 🪫🗲 -->
 
-### ⚡ Currently ⚡
+<!-- ### ⚡ Currently ⚡
 - Exporing new software design patterns
 - Learning a bunch of stuff
 
@@ -24,9 +24,10 @@ I'm Ishan Dandekar, a self-taught junior data scientist hailing from Vapi, India
 - [Email](mailto:ishandandekar2002@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/ishan-dandekar/)
 - [Kaggle](https://www.kaggle.com/ishandandekar)
-- [Medium](https://medium.com/@ishandandekar)
+- [Medium](https://medium.com/@ishandandekar) -->
 
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=dark" alt="ishandandekar_gh_stats" /> -->
 <!-- ![ishandandekar_gh_stats](https://github-readme-stats.vercel.app/api?username=ishandandekar&show_icons=true&theme=tokyonight) -->
 <!-- ![ishandandekar_lc_stats](https://leetcard.jacoblin.cool/ishandandekar?theme=dark&font=Mako) -->
+Oh, I've done so much I mean where do I start
